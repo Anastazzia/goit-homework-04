@@ -268,10 +268,12 @@ background-image: linear-gradient(
 }
 .plus-li:not(:last-child){
     margin-right: 30px;
-    min-width: 270px;
+    
 }
 
-
+.plus-li{
+  
+}
 .section-works{
     padding-top: 0px;
 }
